@@ -2,7 +2,6 @@
 Build and Run the Docker Container
 docker build -t my-php-app .
 docker run -p 8080:80 my-php-app
-http://localhost:8080/
 
 
 Stop and Remove the Container
